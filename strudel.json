@@ -1,0 +1,32 @@
+{
+    "_base": "https://raw.githubusercontent.com/zhouyuyang-joey/joeytechno/main/",
+    "drumloop": "drumloop/RU_SF_140_drums_dembuka_shake_stacked.wav",
+    "bassloop": [
+        "bassloop/FF_ATS_142_bass_crusher_Gmin.wav",
+        "bassloop/FF_FT_125_bass_loop_blades_alternative_G.wav",
+        "bassloop/sr_bass_loop_mod330_127_B.wav",
+        "bassloop/uku_bass_loop_groove_128_Bb.wav"
+    ],
+    "ms": [
+        "ms/FO4_FST_128_bass_van_Dmin.wav",
+        "ms/FO4_HT_126_synth_sequence_reality_Emin.wav"
+    ],
+    "metalpipe": "metalpipe/metalpipe.mp3",
+    "percloop": [
+        "percloop/CPA_UKE_135_perc_loop_water_shells.wav",
+        "percloop/CSMTD_Percussion_Loop_13_128.wav",
+        "percloop/ff_ptt_126_drum_loop_one_shaker.wav",
+        "percloop/sth_prc120_stoneage.wav"
+    ],
+    "fbass": [
+        "fbass/007_Bassline_126bpm_Gm_-_LETTHEREBETECHNO_Zenhiser.wav",
+        "fbass/FF_SOTP_127_bass_loop_ago_Cmin.wav",
+        "fbass/dmt_122_bass_loop_master_122_F#maj.wav",
+        "fbass/pt_acid_128_normies_D.wav"
+    ],
+    "snake": [
+        "snake/FF_ES_foley_rattlesnake_red.wav",
+        "snake/OS_FLO_sfx_riser_snakes.wav",
+        "snake/RattlesnakeTail_BW.2796.wav"
+    ]
+}
